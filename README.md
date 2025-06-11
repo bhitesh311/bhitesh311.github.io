@@ -1,2 +1,3 @@
-# bhitesh311.github.io
-My personal webpage
+# Hitesh B
+Hello world! Welcome to my personal page.
+I joined as a Full-time Teaching Assistant in the department of Electrical and Computer Engineering (ECE) @ National University of Singapore in August 2024.
