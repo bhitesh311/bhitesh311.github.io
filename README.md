@@ -9,5 +9,5 @@ This is Hitesh here and here is a brief intro about myself. I received my Bachel
 * EE2022 (AY 24/25 Sem 2)  
 * EE2211 (AY 24/25 Sem 2)  
 * EE4502 (AY 24/25 Sem 1)  
-* EE4503 (AY 24/25 Sem 2)
+* EE4503 (AY 24/25 Sem 2)  
 This page is still a work in progress. Stay tuned !!! :)
