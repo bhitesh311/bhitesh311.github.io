@@ -1,6 +1,5 @@
-<img src="images/portrait.JPG" width="300" height="200">
-
-# Hitesh B
+# Hitesh B  
+<img src="images/portrait.JPG" width="100" height="100">
 Hello world! Welcome to my personal page.  
 
 This is Hitesh and here is a brief intro about myself. I received my Bachelor's degree from NIT Karnataka in 2021 and my MSc in Electrical Engineering from NUS in 2024. I am now a full-time Teaching Assistant in the ECE department at NUS.
