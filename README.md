@@ -1,6 +1,13 @@
 # Hitesh B  
-<img src="images/portrait.JPG" width="100" height="100" class="image-right">
-<div class="clear-float"></div>
+This is some introductory text.
+
+<img src="/assets/images/portrait.JPG" alt="A descriptive alt text" class="image-right">
+
+This is the text that will wrap around the image.
+
+<div class="clear"></div>
+
+More content after the clear.
 Hello world! Welcome to my personal page.  
 
 This is Hitesh and here is a brief intro about myself. I received my Bachelor's degree from NIT Karnataka in 2021 and my MSc in Electrical Engineering from NUS in 2024. I am now a full-time Teaching Assistant in the ECE department at NUS.
