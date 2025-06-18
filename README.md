@@ -1,6 +1,6 @@
 # Hitesh B  
 
-<img src="assets/images/portrait.JPG" alt="A descriptive alt text" class="image-right" height="100" width="100">
+<img src="assets/images/portrait.JPG" class="image-right" height="100" width="100">
 <div class="clear"></div>
 
 Hello world! Welcome to my personal page.  
