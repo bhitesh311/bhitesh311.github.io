@@ -1,7 +1,5 @@
 # Hitesh B  
-<div class="image-right">
-    ![Alt text for image](images/portrait.JPG)
-</div>
+<img src="images/portrait.JPG" style="float: right;" width="100" height="100">
 
 Your text continues here, and will flow around the image if the CSS is set up to float.
 Hello world! Welcome to my personal page.  
