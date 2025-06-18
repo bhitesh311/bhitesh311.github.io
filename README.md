@@ -1,5 +1,6 @@
 # Hitesh B  
-<img src="images/portrait.JPG" style="float: right;" width="100" height="100">
+<img src="images/portrait.JPG" width="100" height="100" class="image-right">
+<div class="clear-float"></div>
 
 Your text continues here, and will flow around the image if the CSS is set up to float.
 Hello world! Welcome to my personal page.  
