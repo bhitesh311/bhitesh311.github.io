@@ -1,5 +1,5 @@
 # Hitesh B  
-
+![A beautiful landscape](assets/images/portrait.JPG "Landscape View")
 <img src="assets/images/portrait.JPG" class="image-right" height="100" width="100">
 <div class="clear"></div>
 
