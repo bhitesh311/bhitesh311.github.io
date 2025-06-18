@@ -1,0 +1,15 @@
+---
+---
+@import "{{ site.theme }}"; // This is now crucial as you have a theme configured
+
+.image-right {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    max-width: 40%;
+    height: auto;
+}
+
+.clear {
+    clear: both;
+}
