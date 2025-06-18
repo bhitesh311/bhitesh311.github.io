@@ -1,3 +1,5 @@
+![Alt text](images/portrait_copy.png)
+
 # Hitesh B
 Hello world! Welcome to my personal page.  
 
