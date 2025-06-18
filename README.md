@@ -1,7 +1,7 @@
 # Hitesh B  
 This is some introductory text.
 
-<img src="/assets/images/portrait.JPG" alt="A descriptive alt text" class="image-right">
+<img src="/assets/images/portrait.JPG" alt="A descriptive alt text" class="image-right" height="100" width="100">
 
 This is the text that will wrap around the image.
 
