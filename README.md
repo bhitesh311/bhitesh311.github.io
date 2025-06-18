@@ -1,4 +1,4 @@
-<img src="images/portrait.JPG" width="300" height="300">
+<img src="images/portrait.JPG" width="300" height="200">
 
 # Hitesh B
 Hello world! Welcome to my personal page.  
