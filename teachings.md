@@ -1,2 +1,2 @@
-#AY24/25 Sem 1  
- -CS2040DE
+# AY24/25 Sem 1  
+ - CS2040DE
