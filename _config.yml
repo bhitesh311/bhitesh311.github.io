@@ -24,6 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hitesh.b@nus.edu.sg"}
   - {title: Github, icon: github, url: "https://bhitesh311.github.io/"}
+  - {title: Linkedin, icon: linkedin, url:"www.linkedin.com/in/hitesh-b-"}   
  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
