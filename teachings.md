@@ -4,16 +4,16 @@ title: "Teachings"
 ---
 
 # AY24/25 Sem 1    
- ## Tutorials    
+## Tutorials    
  - CS2040DE
- ## Laboratory    
+## Laboratory    
  - CS2040DE
  - EE4502  
 # AY24/25 Sem 2    
- ## Tutorials  
+## Tutorials  
  - CS2040DE
- - EE2211
- ## Laboratory    
+ - EE2211  
+## Laboratory    
  - CS2040DE
  - EE4503
  - EE2022
